@@ -1,4 +1,4 @@
-# fruitcatcher
+# Fruitcatcher
 The Fruit Catcher Game is a Python-based arcade game developed using the “pygame “library. Players control a basket to catch fruits while avoiding bombs. The game features two levels with increasing difficulty, providing an engaging and interactive experience.
 # Rules of the game
 •	Catch fruits to gain points and avoid bombs to prevent losing points by Moving the basket using left and right arrow keys.
